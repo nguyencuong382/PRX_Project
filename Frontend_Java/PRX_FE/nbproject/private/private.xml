@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/entity/Feature.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/view/cart.jsp</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/entity/OrderRequest.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/static/css/jstarbox.css</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/view/api.jsp</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/com/prx/context/DBContext.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/view/order_history.jsp</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/com/prx/controller/CategoryController.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/view/product.jsp</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/com/prx/controller/CartMapper.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/thethao.jsp</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/entity/Cart.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/static/css/bootstrap.css</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/com/prx/controller/ProductController.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/view/test.jsp</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/com/prx/controller/LoginController.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/com/prx/controller/CartController.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/view/login.jsp</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/com/prx/controller/OrderController.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/com/prx/util/AppContext.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/com/prx/controller/APIController.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/com/prx/service/OrderService.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/session/UserSession.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/com/prx/controller/HomeController.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/WEB-INF/tags/_layout.tag</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/com/prx/tags/Static.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/static/css/custom.css</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/entity/User.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/src/java/com/prx/controller/LogoutController.java</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/view/products.jsp</file>
+            <file>file:/C:/Users/nc/Documents/NetBeansProjects/PRX_FE/web/view/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
