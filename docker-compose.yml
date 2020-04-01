@@ -1,0 +1,30 @@
+    container_name: 'sqlserver'
+    image: microsoft/mssql-server-linux:2017-CU1
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_PID=Developer
+      - SA_PASSWORD=Nguyencuong382
+      - MSSQL_DB=PRX
+      - MSSQL_USER=sa
+      - MSSQL_PASSWORD=Nguyencuong382
+    ports:
+    - "1433:1433"
+  api:
+    networks:
+      - prx-network
+    image: nguyencuong382/prx:3191158
+    ports:
+      - "8086:8086"
+    depends_on:
+      - sqldata
+  fe:
+    networks:
+      - prx-network
+    image: nguyencuong382/prx_fe:3191164
+    ports:
+      - "9200:8080"
+    depends_on:
+      - sqldata
+networks:
+  prx-network:
+    external: true
