@@ -1,6 +1,6 @@
 # PRX Project
 
-This is small project for demostration that xml is main role of processing data on PRX class.
+This is small project for the demonstration that xml is main role of processing data on PRX class.
 
 ## Setup your localhost
 IDE: Netbeans IDE 8.2
